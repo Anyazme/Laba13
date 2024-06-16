@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Laba12_1/1.0.0": {
+        "dependencies": {
+          "Laba12": "1.0.0",
+          "Bib10": "1.0.0.0",
+          "Console10": "1.0.0.0"
+        },
+        "runtime": {
+          "Laba12_1.dll": {}
+        }
+      },
+      "Laba12/1.0.0": {
+        "runtime": {
+          "Laba12.dll": {}
+        }
+      },
+      "Bib10/1.0.0.0": {
+        "runtime": {
+          "Bib10.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Console10/1.0.0.0": {
+        "runtime": {
+          "Console10.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laba12_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Laba12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bib10/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Console10/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
